@@ -1,0 +1,1 @@
+document.getElementByIdById("favorite").innerHTML;
